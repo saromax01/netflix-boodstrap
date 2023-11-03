@@ -1,0 +1,54 @@
+.navbar-nav > .nav-item:nth-of-type(2) > a {
+  color: white;
+}
+
+.nav-link:hover {
+  color: gray !important;
+}
+svg {
+  color: white;
+}
+.rober span {
+  margin-inline: 10px;
+}
+h2 {
+  color: white;
+  margin-bottom: 20px;
+}
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 0%;
+  border: solid 1.5px whitesmoke;
+}
+.dropdown-menu a {
+  color: white;
+}
+.no-padding {
+  padding: 0 !important;
+}
+
+.img-fluid {
+  margin: 0;
+  object-fit: cover;
+}
+footer {
+  width: 750px;
+  margin-inline: auto;
+  margin-top: 100px;
+}
+footer svg {
+  color: gray;
+  margin: 8px;
+}
+.custom-link {
+  text-decoration: none;
+  color: #d3d3d3;
+}
+
+.custom-link:hover {
+  text-decoration: underline;
+}
+.berry div {
+  margin-right: 60px;
+}

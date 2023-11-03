@@ -1,0 +1,17 @@
+body {
+  background-color: #141414;
+}
+.bg-custom {
+  background: linear-gradient(to bottom, #070606, #141413);
+}
+.custom-navbar {
+  border: none;
+}
+main {
+  width: 700px;
+  margin-top: 150px;
+}
+h1 {
+  font-size: 4em;
+  font-weight: 300;
+}
