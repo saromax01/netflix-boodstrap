@@ -68,3 +68,6 @@ nav {
   background-color: #141414 !important;
   border: none;
 }
+section img {
+  border: black 1px solid;
+}
