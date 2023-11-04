@@ -52,3 +52,19 @@ footer svg {
 .berry div {
   margin-right: 60px;
 }
+img:hover {
+  cursor: pointer;
+}
+svg:hover {
+  cursor: pointer;
+}
+body {
+  background-color: #141414 !important;
+}
+nav {
+  background-color: #141414 !important;
+}
+.btn-special {
+  background-color: #141414 !important;
+  border: none;
+}

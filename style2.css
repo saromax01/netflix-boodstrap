@@ -44,3 +44,6 @@ h4 {
   font-size: 1.3em;
   padding: 2px;
 }
+.btn-custom {
+  background-color: #141414 !important;
+}
