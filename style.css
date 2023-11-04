@@ -50,7 +50,7 @@ footer svg {
   text-decoration: underline;
 }
 .berry div {
-  margin-right: 60px;
+  margin-right: 40px;
 }
 img:hover {
   cursor: pointer;
@@ -70,4 +70,7 @@ nav {
 }
 section img {
   border: black 1px solid;
+}
+.berry li {
+  margin-bottom: 10px;
 }
